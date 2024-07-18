@@ -1,5 +1,5 @@
 ﻿using System.Runtime.InteropServices;
-// discord://-/channels/547866280049508352/547866653933699082/1172551865989349457
+
 namespace Win32ApiShutdown
 {
     internal class Program
